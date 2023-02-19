@@ -24,10 +24,3 @@ to work on this during our internship with ineuron.
 
 <img src="ScreenShots/SS2.jpeg" alt="Screenshot">
 <img src="ScreenShots/SS3.jpeg" alt="Screenshot">
-
-## Video Output
-
-<video width="320" height="240" controls>
-  <source src="output3.avi">
-  Your browser does not support the video tag.
-</video>
