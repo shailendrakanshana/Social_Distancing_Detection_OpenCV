@@ -19,11 +19,11 @@ to work on this during our internship with ineuron.
 
 # Output of an an video
 
-<img src="ScreenShots/SS1.jpg" alt="SS">
+<img src="ScreenShots/SS1.jpeg" alt="SS">
 
 
-<img src="ScreenShots/SS2.jpg" alt="Screenshot">
-<img src="ScreenShots/SS3.jpg" alt="Screenshot">
+<img src="ScreenShots/SS2.jpeg" alt="Screenshot">
+<img src="ScreenShots/SS3.jpeg" alt="Screenshot">
 
 ## Video Output
 
