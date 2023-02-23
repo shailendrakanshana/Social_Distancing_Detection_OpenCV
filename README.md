@@ -19,7 +19,11 @@ to work on this during our internship with ineuron.
 
 # Output of an an video
 
-https://github.com/shailendrakanshana/Social_Distancing_Detection_OpenCV/blob/main/output8.mp4
+
+https://user-images.githubusercontent.com/73637184/220821875-182782be-7955-449d-bc7b-389e9d8ea8f1.mp4
+
+
+
 
 <img src="ScreenShots/SS1.jpeg" alt="SS">
 
