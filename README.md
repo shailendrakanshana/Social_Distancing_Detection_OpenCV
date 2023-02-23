@@ -21,7 +21,8 @@ to work on this during our internship with ineuron.
 
 
 https://user-images.githubusercontent.com/73637184/220821875-182782be-7955-449d-bc7b-389e9d8ea8f1.mp4
-<br>
+
+<hr>
 
 
 
