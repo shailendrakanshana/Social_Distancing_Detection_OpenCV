@@ -19,9 +19,7 @@ to work on this during our internship with ineuron.
 
 # Output of an an video
 
-<video width="320" height="240" autoplay>
- <source src="output8.mp4" type="video/mp4">
-  </video>
+https://github.com/shailendrakanshana/Social_Distancing_Detection_OpenCV/blob/main/output8.mp4
 
 <img src="ScreenShots/SS1.jpeg" alt="SS">
 
